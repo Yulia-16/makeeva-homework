@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head lang="ru">
+	<meta charset="utf-8">
+	<link rel="shortcat icon" type="images/x-icon" href="../images/fav.png">
+	
+
+
+	<link rel="stylesheet"type="text/css"href="../css/aries.css">
+	<meta name="keywords" content="характеристика знаков зодиака, гороскоп на сегодня, гороскоп, сонник,зодиак,овен, характеристика овна">
+	<title>ОВЕН-ТАЙНА ЗНАКА</title>
+</head>
+<body>
+	<header>
+
+<div class="logo">Тайна знака</div>
+	<ul class="menu">
+			<li>
+				<a href="#">Гороскоп на каждый день</a>
+				<a href="#">Совместимость</a>
+				<a href="#">Гороскоп-2021</a>
+				<a href="#">Сонник</a>
+
+
+			</li>
+		</ul>
+		</header>
+
+
+<div>	
+<aside>
+
+<ol>
+    Стихии:
+    <ul>
+      <li>Огонь</li>
+      <li>Земля</li>
+      <li>Воздух</li>
+      <li>Вода</li>
+    </ul>
+
+</ol>
+<br>
+<br>
+<ol>
+    Кресты:
+    <ul>
+      <li>Кардинальный</li>
+      <li>Фиксированный</li>
+      <li>Мутабельный</li>
+      
+    </ul>
+
+</ol>
+
+
+</aside>
+
+<main>
+
+<div>
+	<img src="../images/aries.jpeg" alt="Овен" width="200px"height="200px">
+
+<div class="aries"><p><h3>Овен - его доверие как нервные клетки: практически не восстанавливается.</h3></p></div>
+
+	<p>Люди знака зодиака Овен любят брать инициативу в свои руки, они хорошие лидеры и организаторы, им необходимо управлять ситуацией и держать окружающих под контролем. 
+</p><br>
+<br>
+
+
+<div>
+<form name="Comment" method="post" action="#">
+
+<select >
+	<option label="Укажите свой пол" value="1" selected>-</option>
+	<option>Мужчина</option>
+	<option>Женщина</option>
+</select>
+
+  </p>
+  <p>Оставьте свой Комментарий<Br>
+   <textarea name="comment" cols="40" rows="3"></textarea></p>
+  <p><input type="submit" value="Отправить">
+   <input type="reset" value="Очистить"></p>
+ </form>
+</div> 
+
+<br><br>
+
+<div class="signs">
+	<!-- <a href="pages/aries.html" target="_blank" style="color:#078b90;" --><!-- > --> Овен
+	<a href="pages/taurus.html" target="_blank" style="color:#078b90;">Телец
+	<a href="pages/taurus.html" target="_blank" style="color:#078b90;">Близнецы
+	<a href="pages/taurus.html" target="_blank" style="color:#078b90;">Рак
+	<a href="pages/taurus.html" target="_blank" style="color:#078b90;">Лев
+    <a href="pages/taurus.html" target="_blank"style="color:#078b90;">Дева<br><br>
+	<a href="pages/taurus.html" target="_blank"style="color:#078b90;">Весы
+	<a href="pages/taurus.html" target="_blank"style="color:#078b90;">Скорпион
+    <a href="pages/taurus.html" target="_blank"style="color:#078b90;">Стрелец
+    <a href="pages/taurus.html" target="_blank"style="color:#078b90;">Козерог
+    <a href="pages/taurus.html" target="_blank"style="color:#078b90;">Водолей
+	<a href="pages/taurus.html" target="_blank"style="color:#078b90;">Рыбы
+
+
+</a> 
+
+	
+</div>
+
+</main>
+
+
+</div> 
+ --></div>
+<footer>
+
+<p style="font-size: 13px;">Сайт создан при поддержке обучающих материалов Serhii Lozytskyi на курсе "QA ADVANCE"2020 &#169;<br>Разработчик Макеева Юлия<br>horoscope@horo.com
+</p>
+</footer>
+
+
+
+</body>
+</html>

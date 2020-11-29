@@ -1,0 +1,114 @@
+header{
+    width: 900px;
+    height: 150px;
+	background-color: #6516b5; 
+	margin: 5px auto;
+    padding-left: 30px;
+    font-family: Snell Roundhand, cursive;
+	
+}
+
+header a{
+        color: #fff;
+        font-size: 15px;
+        padding: 0 25px;
+       border-right: 2px solid #fff;
+       transition: .3s all ease;
+}
+.logo{
+    padding-top: 10px;
+    float: left;
+    color: #fff;
+    font-size: 35px;
+    text-align: left;
+    padding left: 25px 50px;
+}
+     .menu {
+        padding-top: 25px;
+        display: flex;
+        list-style-type: none; 
+     }
+     .menu li a{
+        text-transform: uppercase;
+        text-decoration: none;
+     }
+     div{width: 900px; 
+        margin: 10px auto; 
+        font-family: Courier New, monospace;
+
+     }
+     aside{
+        color: #fff;
+        background-color: #ddace3 /*fcbef7*//*#e17afb*//*#f6d4fe*/;
+     	height: 500px; 
+     	text-align:left;
+     	 width: 250px; 
+     	 padding-top: 30px; 
+         padding-left: 0px;
+     	 float:left;
+         font-size: 20px;
+     }
+     main{
+        margin: 30px auto;
+        background-color: #ddace3;
+        height: 550px; 
+        text-align:center; 
+        padding-top: 20px;
+        font-size:15px;
+     }
+
+     footer{
+        
+         font-family: URW Chancery L, cursive;
+        color: #7b7db8; 
+        background-color: pink; 
+        width: 900px;
+         height: 100px; 
+         text-align:left; 
+         padding-top: 20px;
+         margin: 30px auto; 
+         padding-left: 20px;  
+         line-height: 1.5;
+
+     }
+
+     img{
+        float: left;
+        padding-right: : 15px;
+     }
+    p{
+
+    font-size: 15px;
+    float: top-right;
+}
+
+
+ a { 
+    text-decoration: none;
+}
+
+.signs{
+    color: #093ad9; 
+    word-spacing: 15px;
+    font-size: 20px; 
+
+}
+    
+    .aries{
+
+        text-align: center;
+        border-style: double; 
+    /*border-width: 2px 4px 4px 2px; 
+    padding: 1px; */
+    padding-top: 1px;
+    }
+
+   .select{
+
+   position: relative: left: 1.8em
+    /*left: 10px;*/ 
+
+    /* Amount you want it moved by */
+            /*margin: 30px auto;*/
+   } 
+    
